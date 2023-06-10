@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+# Dropdown Component
+This project showcases a customizable dropdown component built using React. The dropdown component provides a user-friendly interface for selecting options from a predefined list. It features a sleek design with rounded corners, gradient backgrounds, and animated transitions.
+
+## Features
+---
+- Interactive dropdown button with a down arrow icon
+- Dropdown options displayed in a menu when the button is clicked
+- Selection of an option updates the button text and closes the dropdown
+- Clicking anywhere outside the dropdown closes it
+Option highlighting on hover and different styling for the selected option
+- Customizable options list
+- Easy integration into other React applications
+## Technologies Used
+---
+- React
+- CSS
+- JavaScript
+- HTML
+---
+# Hosted Link
+---
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
